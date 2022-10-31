@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wojtek
-- 👀 I’m interested in ata science
+- 👀 I’m interested in data science
 - 🌱 I’m currently improving my python skills
 - 💞️ I’m looking to collaborate on more complex ptyhon projects
 - 📫 How to reach me: wojtekwojcik1112@gmail.com
